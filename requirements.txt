@@ -1,0 +1,11 @@
+pandas
+numpy
+sentence-transformers
+langchain
+langchain-text-splitters
+faiss-cpu
+transformers
+torch
+gradio
+jupyter
+ipykernel
